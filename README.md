@@ -28,8 +28,8 @@ Initially when I tested the _attiny85 board_ with latest version of __[ArduinoID
 - ![driver installation](./imgs/driver-installation.png)
 
 2. Open _ArduinoIDE_ > _File_ > _Preferences_ > _Additional Board Manager URLs_ > `http://digistump.com/package_digistump_index.json`
-- ![opening preferences](./imgs/ide-setting-1.png)
-- ![setting digistump urls](./imgs/ide-setting-2.png)
+- ![opening preferences](./imgs/ide-installation-1.png)
+- ![setting digistump urls](./imgs/ide-installation-2.png)
 
 3. _ArduinoIDE_ > _Tools_ > _Boards: "..._ > _Board Manager..._ > Search "digi" > Install "Digistump AVR Boards" (in img it shows _remove_ button as it is aleady installed, but for you it will come install button)
 - ![goto board manager](./imgs/board-installation-1.png)
